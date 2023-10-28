@@ -1,0 +1,27 @@
+.root {
+    -fx-background-color: #ff9999;
+    /*If it is an external font, you need to load it; @font-face {...} */
+    -fx-font-family: "Bell MT";
+
+    -fx-text-fill: #000000ff;
+    -fx-fill: #000000ff;
+
+}
+.button {
+    -fx-background-color: #cccccc;
+    -fx-text-fill: black;
+}
+.label {
+    -fx-text-fill: white;
+
+}
+.list-view{
+    -fx-background-color: #ffffcc;
+    -fx-text-fill: #666666;
+
+}
+.menu, .menu-bar, .menu-item{
+    -fx-background-color: #333333;
+
+
+}
